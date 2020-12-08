@@ -1,7 +1,5 @@
 html {
   font-size: 10px;
-  background: url("https://i.imgur.com/b9r5sEL.jpg") bottom center;
-  background-size: cover;
 }
 
 body,
@@ -33,20 +31,20 @@ html {
   text-shadow: 0 0 0.5rem black;
 }
 
-.playing {
-  transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
-}
-
 kbd {
   display: block;
   font-size: 4rem;
+}
+
+.playing {
+  transform: scale(1.1);
+  border-color: purple;
+  box-shadow: 0 0 1rem purple;
 }
 
 .sound {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  color: #ffc600;
+  color: purple;
 }
