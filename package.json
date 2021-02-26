@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SanBuNam/AllCodeAllDay#readme",
   "dependencies": {
-    "jest": "^26.6.3"
+    "jest": "^26.6.3",
+    "node": "^15.8.0"
   }
 }
