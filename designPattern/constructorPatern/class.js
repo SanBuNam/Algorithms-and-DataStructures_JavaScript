@@ -18,4 +18,3 @@ var task1 = new Task('task name one');
 
 task1.complete();
 task1.save();
-
